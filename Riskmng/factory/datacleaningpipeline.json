@@ -1,0 +1,9 @@
+{
+	"name": "datacleaningpipeline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "afb8ff47-e3a2-4d6a-bf10-c80c5bb36f19",
+		"tenantId": "3ef11a7f-591b-4a44-8aee-9d55f8bf40fe"
+	}
+}
